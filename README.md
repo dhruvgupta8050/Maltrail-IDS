@@ -1,7 +1,3 @@
-![Maltrail](https://i.imgur.com/3xjInOD.png)
-
-[![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/stamparm/maltrail#license) [![Malware families](https://img.shields.io/badge/malware_families-1494-orange.svg)](https://github.com/stamparm/maltrail/tree/master/trails/static/malware) [![Malware sinkholes](https://img.shields.io/badge/malware_sinkholes-1354-green.svg)](https://github.com/stamparm/maltrail/tree/master/trails/static/malware) [![Twitter](https://img.shields.io/badge/twitter-@maltrail-blue.svg)](https://twitter.com/maltrail)
-
 ## Content
 
 - [Introduction](#introduction)
@@ -28,8 +24,6 @@
  - [Data leakage](#data-leakage)
  - [False positives](#false-positives)
 - [Best practice(s)](#best-practices)
-- [License](#license)
-- [Sponsors](#sponsors)
 - [Developers](#developers)
 - [Presentations](#presentations)
 - [Publications](#publications)
@@ -570,17 +564,11 @@ Nevertheless, administrator(s) should invest some extra time and check (with oth
 
 ## License
 
-This software is provided under a MIT License. See the accompanying [LICENSE](https://github.com/stamparm/maltrail/blob/master/LICENSE) file for more information.
-
-## Sponsors
-
-* [Sansec](https://sansec.io/) (2024-)
-* [Sansec](https://sansec.io/) (2020-2021)
+This software is provided under a Dhruv License.
 
 ## Developers
 
-* Miroslav Stampar ([@stamparm](https://github.com/stamparm))
-* Mikhail Kasimov ([@MikhailKasimov](https://github.com/MikhailKasimov))
+* Dhruv Gupta ([@dhruvbhaiji](https://github.com/dhruvbhaiji))
 
 ## Presentations
 
@@ -597,15 +585,9 @@ This software is provided under a MIT License. See the accompanying [LICENSE](ht
 
 ## Thank you
 
-* Thomas Kristner
-* Eduardo Arcusa Les
-* James Lay
-* Ladislav Baco (@laciKE)
-* John Kristoff (@jtkdpu)
-* Michael M&uuml;nz (@mimugmail)
-* David Brush
-* @Godwottery
-* Chris Wild (@briskets)
+* Dhruv Gupta
+* Karan Sharma
+* Manav
 
 ## Third-party integrations
 
