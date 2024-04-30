@@ -137,7 +137,7 @@ The following set of commands should get your Maltrail **Sensor** up and running
 ```sh
 sudo apt-get install git python3 python3-dev python3-pip python-is-python3 libpcap-dev build-essential procps schedtool
 sudo pip3 install pcapy-ng
-git clone --depth 1 https://github.com/stamparm/maltrail.git
+git clone --depth 1 https://github.com/dhruvbhaiji/Maltrail-IDS.git
 cd maltrail
 sudo python3 sensor.py
 ```
@@ -147,7 +147,7 @@ sudo python3 sensor.py
 ```sh
 sudo zypper install gcc gcc-c++ git libpcap-devel python3-devel python3-pip procps schedtool
 sudo pip3 install pcapy-ng
-git clone --depth 1 https://github.com/stamparm/maltrail.git
+git clone --depth 1 https://github.com/dhruvbhaiji/Maltrail-IDS.git
 cd maltrail
 sudo python3 sensor.py
 ```
