@@ -159,7 +159,7 @@ sudo python3 sensor.py
 To start the (optional) **Server** on same machine, open a new terminal and execute the following:
 
 ```sh
-[[ -d maltrail ]] || git clone --depth 1 https://github.com/stamparm/maltrail.git
+[[ -d maltrail ]] || git clone --depth 1 https://github.com/dhruvbhaiji/Maltrail-IDS.git
 cd maltrail
 python server.py
 ```
