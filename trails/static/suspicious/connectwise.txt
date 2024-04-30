@@ -1,0 +1,37 @@
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: ScreenConnect
+# Note: Trail for detection of evil variants of ConnectWise remote-admin connections
+
+# Reference: https://twitter.com/James_inthe_box/status/1524437845179478019
+# Reference: https://app.any.run/tasks/87fdec4e-da52-4e60-83dc-48c75b7b6753/
+# Reference: https://www.virustotal.com/gui/file/67a997f0b822017a9db70b0a5b7b948b62bcbf571783e5f4c02854e3a819d9d7/detection
+
+192.210.219.54:8041
+91158.to
+
+# Reference: https://twitter.com/noexceptcpp/status/1686320165040840704
+# Reference: https://www.virustotal.com/gui/file/9837541f645ef1bb826a418f7d393531b1457ee8097d438aa3d317534297543c/detection
+
+flashplayr.screenconnect.com
+instance-q07bx4-relay.screenconnect.com
+
+# Reference: https://www.virustotal.com/gui/file/26bae2cc740154108a81e7b0b1c882db0ded1a7e873dd0174d2ac099ec2f6a4f/detection
+
+instance-kkr60r-relay.screenconnect.com
+server-nixde3ff2ff-relay.screenconnect.com
+
+# Reference: https://www.virustotal.com/gui/file/ea7d9798c925b0ec1d02108eada571ca7267c172f9bc338faaa0ff8586068fb6/detection
+
+instance-whpfy0-relay.screenconnect.com
+server-nixde3ff2ff-relay.screenconnect.com
+
+# Reference: https://twitter.com/0xToxin/status/1698972467555889532
+
+instance-m73xwc-relay.screenconnect.com
+
+# Reference: https://www.virustotal.com/gui/file/0477f1ed0866b1e22853fcd12d47318ced4f0406026252e9e0975602c2cd3399/detection
+
+192.3.176.135:443
+192.3.176.135:8041

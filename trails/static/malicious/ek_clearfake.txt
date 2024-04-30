@@ -1,0 +1,251 @@
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-28-v10404/902
+
+adqdqqewqewplzoqmzq.site
+borbrbmrtxtrbxrq.site
+komomjinndqndqwf.store
+omdowqind.site
+wffewiuofegwumzowefmgwezfzew.site
+wnimodmoiejn.site
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-30-v10406/909
+
+ewkekezmwzfevwvwvvmmmmmmwfwf.site
+dust-0001.delorazahnow.workers.dev
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-09-01-v10408/915
+
+pwwqkppwqkezqer.site
+
+# Reference: https://threatfox.abuse.ch/ioc/1153349/
+
+stats-best.site
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/
+
+921hapudyqwdvy.com
+98ygdjhdvuhj.com
+cczqyvuy812jdy.com
+cdn-new-dwnl.site
+indogevro22tevra.com
+ioiubby73b1n.com
+kjniuby621edoo.com
+lminoeubybyvq.com
+mnnoiuiuyttczchgv265d.com
+nbvyrxry216vy.com
+ngvcfrttgyu512vgv.net
+ojhggnfbcy62.com
+ojiwojdiuuywdnbhcby.com
+oiuugyfytvgb22h.com
+opkfijuifbuyynyny.com
+owkdzodqzodqjefjnnejenefe.site
+pklkknj89bygvczvi.com
+poqwjoemqzmemzgqegzqzf.online
+reedx51mut.com
+sioaiuhsdguywqgyuhuiqw.org
+ug62r67uiijo2.com
+uygftdrvtygnyuhi8.com
+vcrwtttywuuidqioppn1.com
+vvooowkdqddcqcqcdqggggl.site
+ytntf5hvtn2vgcxxq.com
+ziucsugcbfyfbyccbasy.com
+znqjdnqzdqzfqmfqmkfq.site
+
+# Reference: https://www.rapid7.com/blog/post/2023/08/31/fake-update-utilizes-new-idat-loader-to-execute-stealc-and-lumma-infostealers/
+# Reference: https://otx.alienvault.com/pulse/64f1e91a2dd9db4bd3af8ce4
+
+bgobgogimrihehmxerreg.site
+gkrokbmrkmrxtmxrxr.space
+oekofkkfkoeefkefbnhgtrq.space
+ooinonqnbdqnjdnqwqkdn.space
+trustdwnl.site
+weomfewnfnu.site
+winextrabonus.life
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-09-08-v10413/928
+
+oiuytyfvq621mb.org
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-10-07)
+
+boiibzqmk12j.com
+nmbvcxzasedrt.com
+oiouhvtybh291.com
+wsexdrcftgyy191.com
+zasexdrc13ftvg.com
+/lander/chrome_1695206714/_cf.php
+/lander/chrome_1695206714/_index.php
+/chrome_1695206714/_index.php
+/chrome_1695206714/_cf.php
+/lander/chrome_1695206714/
+/chrome_1695206714/
+
+# Reference: https://threatfox.abuse.ch/ioc/1188153/
+
+chromiumtxt.space
+
+# Reference: https://threatfox.abuse.ch/ioc/1188713/
+
+chromiumlink.site
+
+# Reference: https://twitter.com/DonPasci/status/1713860495764062600
+
+chromiumbase.site
+hwthurmann.de/wp/chromium/
+
+# Reference: https://twitter.com/karol_paciorek/status/1713910402302558281
+# Reference: https://twitter.com/g0njxa/status/1713914026328031474
+
+basechromium.space
+chromiumengine.space
+isaiahradio.com
+mvpdigital.net
+
+# Reference: https://blog.sekoia.io/clearfake-a-newcomer-to-the-fake-updates-threats-landscape/
+# Reference: https://github.com/SEKOIA-IO/Community/blob/main/IOCs/clearfake/clearfake_iocs_20231016.csv
+
+bookchrono8273.com
+bpjoieohzmhegwegmmuew.online
+brewasigfi1978.workers.dev
+indogervo22tevra.com
+oiqwbuwbwqznjqsdfsfqhf.site
+opmowmokmwczmwecmef.site
+sioaiuhsdguywqgyuhiqw.org
+
+# Reference: https://twitter.com/g0njxa/status/1713919587996057847
+
+altenara.com
+doolittles.be
+easymall.co.th
+esmito.com
+filmovita.ba
+megacarwreckers.com.au
+or-and.com
+sistemajogodobicho.com
+staging.armipour.com
+
+# Reference: https://threatfox.abuse.ch/ioc/1189985/
+
+nbvcdrtyup584wd.com
+
+# Reference: https://twitter.com/g0njxa/status/1713646965840339438
+
+33webtasarim.com
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1714681019855450263
+
+nazarenoagape.com.br/temp/
+
+# Reference: https://twitter.com/DonPasci/status/1714925226985750832
+
+lollyjayconcepts.com/wp-content/plugins/chromium/ChromiumEngine.zip
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-10-19)
+# Reference: https://twitter.com/crep1x/status/1719433333686342027
+
+02w65ijjohr1frm.com
+3ol33lgbrvyjk3d.com
+4m9q0m87vnmx0d1.com
+b1omodh51hw6g3d.com
+cnswg1vzx6heh0f.com
+efmdwkmwke.xyz
+efmdwkmwkq.xyz
+eofjdo3zwxvbi57.com
+hello-world-broken-dust-1f1c.brewasigfi1978.workers.dev
+l0yolufbw5yeabs.com
+lindodeusercontent.com
+ocmtancmi2c5t.live
+poibvyctm21e.com
+server2-slabx.ocmtancmi2c5t.live
+
+# Reference: https://threatfox.abuse.ch/browse/tag/FakeUpdateRU/
+
+cbasechromium.space
+placengine.site
+
+# Reference: https://twitter.com/g0njxa/status/1717657394891669861
+
+chrome-up.com
+ggsdown.top
+kcdq78.fit
+update.chrome-up.com
+updateload.live
+y13xlt1d.xyz
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-03-v10457/1091
+
+koolstoredeluxe.com
+stats-tracked.com
+
+# Reference: https://twitter.com/threatcat_ch/status/1721100855183634653
+
+efmdwkmwk.xyz
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-11-07)
+
+d693na2y4mpkhr34.vip
+jonathanbonnici.com
+longlakeweb.com
+midatlanticlabel.com
+mcguffinboots.com
+thebestthings1337.online
+ov.d693na2y4mpkhr34.vip
+u513fdanj.online
+u513fdanj.site
+u513fdanj.website
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-11-23)
+
+dfjoiners.com
+howmuchtimeuneed.online
+konstanzkom.com
+theoptimistfirst.site
+
+# Reference: https://twitter.com/crep1x/status/1727970391417635312
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-27-v10473/1166
+
+excellentpatterns.com
+jagernaut.com
+/hyk7789hgd/
+/hyk7789hgd/_cf.php
+/lander/hyk7789hgd/_cf.php
+
+# Reference: https://twitter.com/threatcat_ch/status/1729430998394216450
+
+alicortech.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2023-12-04)
+
+acotechgh.com
+akademipraktik.com
+beksystems.com
+brushremovalequipment.com
+concgc.com
+delaneymc.com
+doctorkiki.me
+easyloanbazzar.com
+getwiththelingo.com
+greatesttreatise.com
+kronosmagazine.com
+marybskitchen.com
+/feqsdqdsq/_cf.php
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-14-v10486/1209
+
+onewayskateboard.com
+
+# Reference: https://www.bridewell.com/insights/blogs/detail/clearfake-campaign
+
+awumnf.com
+ulmoyc.com
+zoolclaud.pw
+
+# Generic
+
+/a3A7qLVn/
+/fEOV2v/
+/vvmd54/
+/wzfsr4f/
+/ZgbN19Mx

@@ -1,0 +1,536 @@
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://github.com/sophoslabs/IoCs/blob/master/Android-HiddAd-T
+# Reference: https://sophos.wordpress.com/en-us/?p=55524
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/adware-disguised-as-game-tv-remote-control-apps-infect-9-million-google-play-users/
+# Reference: https://documents.trendmicro.com/assets/AdwareFoundonGooglePlay_Appendix.pdf
+
+cdn.partycross.com
+dialog.usatek.eu
+dialog-4a78.kxcdn.com
+goldapp-bcf4.kxcdn.com
+mny-3f29.kxcdn.com
+remoteapp-3d8f.kxcdn.com
+remotesettings-3f29.kxcdn.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1292827259812839430
+
+tweaktv.cc/apk/
+
+# Reference: https://www.virustotal.com/gui/domain/club-beest.com/relations
+# Reference: https://www.virustotal.com/gui/file/c2563aa18482585e052cabab1ad9ac957cf0a9ee6f037cf04c6609f5af2de05f/detection
+
+club-beest.com
+
+# Reference: https://www.virustotal.com/gui/domain/wcond.site/relations
+
+wcond.site
+
+# Reference: https://www.virustotal.com/gui/file/37c0bc62ff1ff958eeb241930d7e9f52bd64dbc9bd59103da44c4b35c8419e0a/detection
+# Reference: https://www.virustotal.com/gui/file/67891ba4d298dd2bde9ba4b84f5800d37686054edb027e6e829b09fa7da547b1/detection
+
+craigsvoice.soxx.us
+fanoiu.soxx.us
+terranz.ath.cx
+
+# Reference: https://www.virustotal.com/gui/domain/s.fewconf.info/relations
+# Reference: https://www.virustotal.com/gui/file/e733764435c3b9d14cf6f481aa286ae874534d40acdb037af72252df8e59fe2e/detection
+
+s.fewconf.info
+
+# Reference: https://www.virustotal.com/gui/domain/w.gtrconf.info/detection
+# Reference: https://www.virustotal.com/gui/file/02b2b182a180f7ba79e8dd607b651722d1f72df781519c9ed367707bad1101a5/detection
+
+w.gtrconf.info
+
+# Reference: https://www.virustotal.com/gui/file/48794f40c760d03a726bf532d66e71dbe1218170c8a5892fae38081666a68424/detection
+
+ommunite.top
+onelegends.com
+willitepartisti.club
+
+# Reference: https://www.virustotal.com/gui/file/17e3dae34bae5fa0f2182f4f27a8629dfe5291b2e8e1b7f28073b23e92e8296e/detection
+
+backup-message.live
+
+# Reference: https://www.virustotal.com/gui/file/c3419ce1c638a403e407c454f6e38e8eb3a6e9c8f6808a4585bdad28f0076ea6/detection
+
+top.realydomain.info
+
+# Reference: https://www.virustotal.com/gui/file/4de4907b492fe4d601272f9300dcac426f4aaef178940eea84f3d9cd5e12c2b0/detection
+
+blabla.mobengine.xyz
+best.realydomain.info
+
+# Reference: https://www.virustotal.com/gui/file/3c384ec456146804c605bb1a33d9d0bf5ad9d98167c49c71984a1d31892a2c68/detection
+
+api.mobengine.xyz
+cdn.mobengine.xyz
+
+# Reference: https://www.virustotal.com/gui/file/9c3f05c27383f7dbe4236286edfaa3b5cc513227de19f1d9b926a147d465c57a/detection
+
+custom-cdn.mobengine.xyz
+
+# Reference: https://www.virustotal.com/gui/file/483328e4b7e5630162d5fe6aea9057091429d3a77f2483703690d55d74d74d7c/detection
+
+http://23.111.83.188
+api.oursupersk.com
+cdn.oursupersk.com
+qqq.prostolok.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/23.111.83.188/relations
+
+jetbudjet.in
+jetengine.be
+mobengine.xyz
+mobiletop.cc
+mobiletop.icu
+mobiletop.mobi
+mobiletop.pro
+mysupersk.com
+oursupersk.com
+sdkengine.pro
+api.jetbudjet.in
+api.jetengine.be
+api.mobengine.xyz
+api.mobiletop.cc
+api.mobiletop.icu
+api.mobiletop.mobi
+api.mysupersk.com
+api.oursupersk.com
+api.sdkengine.pro
+cdn.mobiletop.cc
+events.jetengine.be
+events.mobiletop.cc
+events.mobiletop.pro
+klb.oursupersk.com
+logs.mobengine.xyz
+logs.mobiletop.cc
+logs.mobiletop.pro
+logs.oursupersk.com
+lun.mobiletop.pro
+mli.mysupersk.com
+mobengine.xyz
+pi.mobengine.xyz
+
+# Reference: https://www.virustotal.com/gui/file/153b51fbb2274106d21ce30e187cb5299c4a568480e5b1d7e9a5ee6589daa8b2/detection
+
+bigboi.app
+
+# Reference: https://www.virustotal.com/gui/domain/jetselect.xyz/relations
+
+jetselect.xyz
+
+# Reference: https://www.virustotal.com/gui/domain/fordomws.net/relations
+
+fordomws.net
+
+# Reference: https://www.virustotal.com/gui/domain/ssp.swe.xyz/detection
+
+ssp.swe.xyz
+
+# Reference: https://www.virustotal.com/gui/domain/one.cryptonomiconf.com/relations
+
+one.cryptonomiconf.com
+
+# Reference: https://www.virustotal.com/gui/file/409b7432b804ef8a1edf4a973a63fc98f7ecd91d83d56a32cabc15805db3ccf1/detection
+
+victiontuvs.club
+
+# Reference: https://www.virustotal.com/gui/file/ae0a089d52e79328a6246ffb85f47f7233582e87d33a7686e6caf88f36cfc16f/detection
+# Reference: https://www.virustotal.com/gui/file/3e7ed13ce920a966a874951e9d0d388695bc51a9524b23e4b126f6e0c4cbe3ea/detection
+
+112.121.166.10:23001
+139.162.13.178:10084
+148.66.17.4:11080
+216.118.244.210:20081
+216.118.244.210:20082
+47xna1.g7e6.com
+bert.aefrant.com
+hlul6k.r8w0.com
+mnwj0t.g7e6.com
+q1wk14.g7e6.com
+wvzb9b.xjwi5.com
+/Scavenger/ReceivedUpdate
+
+# Reference: https://www.virustotal.com/gui/file/0067f443fe581dec35b8f828a08eb68301ee86dd51efd72af27cf66fda377132/detection
+
+profitablenessurvey.top
+
+# Reference: https://www.virustotal.com/gui/file/21c70c3775c25affb21550576a400a382f16511aa8a27eaa92f333ab77add1c8/detection
+
+45.118.135.218:10080
+
+# Reference: https://www.virustotal.com/gui/file/da704b8ffbceea10fc2eef5bae017fa631fcf1e03ddbaaaed73f88f7abded021/detection
+
+http://51.38.134.114
+
+# Reference: https://www.virustotal.com/gui/file/35bfe43943134977b9e636e927f6a16b47e0abc24904c484a8864897d594ddd3/detection
+
+androidinja.ir
+
+# Reference: https://www.virustotal.com/gui/file/59445d4de24bcdfcd947b55c9a924d3959ba536d76c5bdc763847d6923910e0f/detection
+
+dawumoe1.xyz
+
+# Reference: https://www.virustotal.com/gui/file/005dda209c71d1b1e6eec556f75b543b796d067cc8e06cb2b6973a3e2e10e9ff/detection
+
+ddeceptsc.top
+willitepartisti.club
+
+# Reference: https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-hiddenads-malware-that-runs-automatically-and-hides-on-google-play-1m-users-affected/
+# Reference: https://otx.alienvault.com/pulse/62e7ae221a41e3c596dbbca4
+# Reference: https://www.virustotal.com/gui/domain/functionads.com/relations
+
+114.115.210.129:10102
+39.105.225.156:8100
+47.241.213.112:8002
+functionads.com
+android.functionads.com
+androidlog.functionads.com
+app.functionads.com
+cpi.functionads.com
+sdk.functionads.com
+hw.sdk.functionads.com
+
+# Reference: https://www.virustotal.com/gui/file/001d893d5aaf6079177d4ada320adb9426b7a92866b70190c9441ae144443243/detection
+
+dollarsurveysuccess.top
+
+# Reference: https://www.virustotal.com/gui/file/0040c3b8d335eef8fad148f623de46adc80c76c5eac0679eaa08a8176f886c1a/detection
+
+ullmarnold.club
+
+# Reference: https://www.virustotal.com/gui/file/004f8642a094ac175bcce452fae101d717f261a2288e8d8b364eb48de40c1e17/detection
+
+sonalityand.biz
+
+# Reference: https://www.virustotal.com/gui/file/005112775c2c5fd418652ebef23cbec920b89cc602a71694cd1d5081d7f56671/detection
+# Reference: https://www.virustotal.com/gui/file/00659d95f44b7d9e1dbef822b7380423875c5ffe032197f02c1301e3b7127865/detection
+# Reference: https://www.virustotal.com/gui/file/006bc1f721a756e59d903f7bff164cee4b0c2dd68e06d8354cea24a390e0a1ff/detection
+# Reference: https://www.virustotal.com/gui/file/0093cc614d7cc19493ba2e571e87e7727717100b89532d312ef4cf34b8645ee1/detection
+
+asedocvj.biz
+bythatdateil.biz
+dclearedwi.online
+luckychance.me
+micmitosas.top
+ormationfr.online
+willitepartisti.club
+winluckychance.com
+
+# Reference: https://www.virustotal.com/gui/file/0054e30cbcfb0918dc1b05c5e988b4789b1efcae3db7329301afa05af49abc34/detection
+
+6srvfcm.com
+s.6srvfcm.com
+
+# Reference: https://www.virustotal.com/gui/file/00853f69b859130a84a83db0e613b4f4d37420153ee5cd2edf332bb0d8efc413/detection
+
+esponsidehe.club
+
+# Reference: https://www.virustotal.com/gui/file/009586431211485515d4a721fab36625848d9bf495fde045b94f5d4edec59a7f/detection
+
+hummonantil.info
+
+# Reference: https://www.virustotal.com/gui/file/0144dbb55f6a1cc0ffb2b7999c6d6fc4289552bca5ef2f426885ba0a3e7f863a/detection
+
+luckergoldsurvey.top
+a.luckergoldsurvey.top
+
+# Reference: https://www.virustotal.com/gui/file/0097f819cb1dff07be155ec9b2c250d998a96187abb8f70b0dc4ec8abcff1eb5/detection
+
+rycertaine.top
+
+# Reference: https://www.virustotal.com/gui/file/038ffca16e382f88d0077f6321cfdc7a4014b856ade70b615328fd77d37e69fe/detection
+
+examplete.club
+
+# Reference: https://www.virustotal.com/gui/file/043a856280349a2f4b2ac7170abca33298e8355385c18213f7d97e82f931ccc3/detection
+
+lturesinteac.biz
+
+# Reference: https://www.virustotal.com/gui/file/0111ab4c0a64516d70c0cfa8c206627c59251cb7cbaa313d495564ad13a58095/detection
+
+rdonoursestut.info
+
+# Reference: https://www.virustotal.com/gui/file/0000fafc390c75122ae2ad8cbbef7a0f95e05d0d7d731dfefb3005ee8a01b41b/detection
+
+qualismyui.club
+
+# Reference: https://www.virustotal.com/gui/file/06c198feb7422f0980ad7ccae775ba712cdd35d76fbce6ac3e6234022f63eeb3/detection
+
+placentry.club
+
+# Reference: https://www.virustotal.com/gui/file/012b7466a01e834c6356d5b49f5d40192465f88cfceb5841dfb0ef63d79d0aca/detection
+
+einteaching.biz
+
+# Reference: https://www.virustotal.com/gui/file/0223df47de4e37f543abb84d77caa9d8a5b015937e617957fa84e100eccac9a8/detection
+
+vecohgmpl.biz
+
+# Reference: https://www.virustotal.com/gui/file/01ce3dfcb4b231ccfb802f00f6f5a921953f5c69d3eaa9d1d72252bbba3ef7d8/detection
+
+tonasalarys.online
+
+# Reference: https://www.virustotal.com/gui/file/0070f4db8aeb7769ae9b37265790bc4dbb46f25967ba59f6be6b539bc25e1f0f/detection
+
+covercoats.club
+
+# Reference: https://www.virustotal.com/gui/file/03d4768ca5a6407b85ae8bc90400182150b3c2d75dda946cc5efd6a39a3c2fb6/detection
+
+kitwkuouldh.xyz
+
+# Reference: https://www.virustotal.com/gui/file/071b251d5652a00b4cff57df8143c457612b31be309663f70ba623eb4fe7d649/detection
+
+estauranc.top
+
+# Reference: https://www.virustotal.com/gui/file/07a43e3b09c3bda2f6a2aadab6bd69aaba49635d21e90114a4b7858e315380fa/detection
+
+ontknoww.online
+
+# Reference: https://www.virustotal.com/gui/file/05fdfb104e56318ffcd0b2c402b19c29187b5f3c49d15a3c0ff26857d8328706/detection
+
+ingtobepu.online
+
+# Reference: https://www.virustotal.com/gui/file/15899c2758f4c11f50608756ef6eac8abd17f41735bc96c6ad0797199d2dcdc1/detection
+
+eattheendo.online
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.254.198.179/relations
+# Reference: https://www.virustotal.com/gui/file/075c6b8194ae8ac28c94e8eba249591445a8392616903036a09fcec0f485860e/detection
+
+safestarong.lol
+safestrong.space
+
+# Reference: https://www.virustotal.com/gui/file/03a253ba493b87a12e97c235368b89fa358c2e05e1db83e735a82fe71eadf3bc/detection
+
+lariwasdoi.online
+
+# Reference: https://www.virustotal.com/gui/file/9045056806ac529d082133cbea7583f66a12cab464ec48e788840316c14742d8/detection
+
+manteivsetting.ga
+
+# Reference: https://www.virustotal.com/gui/file/035474fdd9a3723cbedddf05a55d1838cfb2ccaa34257bf0959cc75b5a8590fb/detection
+
+rexplosing.fun
+
+# Reference: https://www.virustotal.com/gui/file/0049a986edefb64b80638750a793ddabfc7f8a4279237e892a1cd92888de065e/detection
+
+atswe.xyz
+ssp.atswe.xyz
+
+# Reference: https://unit42.paloaltonetworks.com/hooking-framework-in-sandbox-to-analyze-android-apk/
+
+madhavaapps.science
+/dwarkadhish/alternate148275android.php
+/alternate148275android.php
+
+# Reference: https://www.virustotal.com/gui/file/0bcdbc6a97c4b1b65830f71d234a23fcde7be4afeb75cae0981d3a5eb203dc2b/detection
+
+platerind.club
+
+# Reference: https://twitter.com/xristo_cRad/status/1732159327295680866
+# Reference: https://www.virustotal.com/gui/ip-address/139.45.197.237/relations
+# Reference: https://www.virustotal.com/gui/ip-address/139.45.197.244/relations
+
+aisaipty.xyz
+aistekso.net
+allskillon.com
+atservineor.com
+aubsehog.net
+audrault.xyz
+augigous.net
+auloucma.net
+aumseewu.xyz
+aumtoost.net
+aunsaick.com
+austaits.xyz
+avonsour.com
+baithoph.net
+barteebs.xyz
+beegrenugoz.com
+begolettan.com
+betforakiea.com
+bijitsoa.com
+biloatiw.com
+boabijihum.com
+boastauw.xyz
+borgoonu.net
+butsenox.net
+caigluph.xyz
+caubouru.xyz
+chaulsan.com
+cheelroo.net
+chepsoan.xyz
+culsaids.xyz
+daipsaut.com
+deghooda.net
+dolatiaschan.com
+doogroum.xyz
+doruffleton.com
+douglaug.net
+doujauko.com
+doupsout.xyz
+dursocoa.com
+eethilsi.com
+eewhaukr.xyz
+eewheeds.com
+ejeemino.net
+elicoaga.xyz
+feeseeho.com
+feroaptu.xyz
+firdoagh.net
+fodsoack.com
+foophoag.com
+foraxewan.com
+forooqso.tv
+gaijaupo.com
+gejeegho.net
+gihehazfdm.com
+glaunsil.xyz
+gleebsoa.xyz
+glegreel.xyz
+glimtaul.xyz
+gloacmug.xyz
+gloamucm.xyz
+gloogeed.xyz
+gotchaih.com
+goupeecy.com
+graibsah.xyz
+grailtie.xyz
+greewepi.net
+gronsoad.com
+groosoum.xyz
+grourded.net
+hiphoapt.xyz
+hoabinoo.net
+hoglinsu.com
+hturnshal.com
+iveecups.net
+jauwoasy.com
+jeekomih.com
+jeltoocm.xyz
+joachoag.xyz
+joupteni.xyz
+kaiviwoo.com
+kelreesh.xyz
+koustouk.net
+kuwooque.com
+laiwhost.net
+lausoudu.net
+lebratent.com
+legreeft.xyz
+lidsaich.net
+loogreem.xyz
+loothoko.net
+lowgliscorr.com
+lurgaush.net
+luvaihoo.com
+madesout.com
+mairunoa.xyz
+meestuch.com
+midouwhi.com
+mordoops.com
+mucmoapa.com
+mzteishamp.com
+nautaish.com
+neewhoum.net
+nepoamoo.com
+noapteen.net
+nofashot.com
+nooshake.com
+oadsaurs.net
+ofleafeona.com
+omoahope.net
+omopeemt.net
+onmarilltor.com
+oshaista.xyz
+oulsools.com
+ousouzay.net
+padujeph.xyz
+paikaufy.com
+paikoaza.net
+pauwhajo.xyz
+peethach.com
+pheniter.com
+phooghoo.com
+phoulade.xyz
+pseerdab.com
+psidraul.com
+psithich.com
+psucmulr.net
+psuftoum.com
+ptaishux.com
+ptaujoot.net
+ptaungoo.xyz
+pteebsob.net
+pteeksou.xyz
+ptoapouk.com
+ptooshos.net
+pumpaiss.net
+roadoati.xyz
+rulroagh.xyz
+saiwecee.com
+sampoang.xyz
+sanseemp.com
+saugeeth.net
+shaisole.com
+shartems.com
+sheesoah.net
+shoneeha.com
+soocaips.com
+sotchart.net
+souraivo.xyz
+stedsous.xyz
+stiksaud.com
+stuchoug.com
+taigathi.xyz
+tausoota.xyz
+temperaturetwit.com
+thaidsir.xyz
+thaifteg.com
+theedrem.xyz
+thidroam.com
+tignuget.net
+tihursoa.net
+toomeepi.xyz
+tooshecu.com
+ubanurdo.com
+ugloozie.xyz
+ukaugesh.com
+uncastnork.com
+unwoobater.com
+upseelee.xyz
+upseepsi.xyz
+vaifauzu.net
+vaikijie.net
+vaisheph.xyz
+vaithodo.com
+vassudse.com
+vauthaud.net
+watsaira.net
+waushaup.com
+whartaug.net
+whautsis.com
+whiboubs.com
+whoaksoo.com
+whoutchi.net
+whouzelt.xyz
+whulsaux.com
+woaneeti.com
+womsauph.com
+woolasib.net
+woovoree.net
+wossaung.net
+wuftoars.net
+zemteksu.xyz
+zigighol.xyz
+zouphuru.net
+zustaque.net
+
+# Reference: https://www.virustotal.com/gui/file/0001533d0111e6cf3b1e76d5a49e8234379d061314e656f8179b59d32ee9d20d/detection
+
+ssd4000.top
+541c.ssd4000.top

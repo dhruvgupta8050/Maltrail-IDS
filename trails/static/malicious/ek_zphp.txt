@@ -1,0 +1,276 @@
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-04-v10432/1011
+
+amazonascash.com
+christopherchabannes.com
+onlinecasinopinup.xyz
+profille-cex-io.com
+raloco.com
+s127581-statspixel.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-05-v10433/1014
+
+fablane.com
+residencialcasabrasileira.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-09-v10435/1022
+
+antiqueglossary.com
+configuratorpro.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-10-v10436/1024
+
+eastrenclouds.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-11-v10437/1028
+
+gnavigatio.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-16-v10442/1045
+
+arauas.com
+gamefllix.com
+
+# Reference: https://threatfox.abuse.ch/ioc/1191897/
+
+implacavelvideos.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-23-v10446/1060
+
+implacavelvideos.com
+kgscrew.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-27-v10450/1073
+
+cubicalwave.com
+defeatdiseasewithdata.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-10-30-v10452/1080
+
+cinaprofilm.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-02-v10456/1090
+
+farmexpressmachine.com
+pdfinfinity.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-06-v10458/1095
+
+addisonlynch.com
+andreeasasser.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-09-v10462/1107
+
+cwgmanagementllc.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-14-v10465/1122
+
+ilokod.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-14-v10465/1122
+# Reference: https://www.virustotal.com/gui/file/95dc40efbe0248508644a24d661f815a83d95616dc78fbfeb389c9f43b36743d/detection
+
+louisianaworkingdogs.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-20-v10469/1139
+
+forumsecrets.com
+gpksanfrancisco.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-28-v10474/1167
+
+informativosatelital.com
+nelubelei.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-11-30-v10476/1172
+
+paradoxmarine.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-07-v10481/1190
+
+jokergame1.com
+perfilcovid.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-26-v10493/1234
+# Reference: https://www.virustotal.com/gui/file/436e62fb9aacb2e384afd06ee8afbaa83aa152059361089caa7853b508bac212/detection
+
+onlinesavingsjournal.com
+polatliems.com
+proexbit.com
+proximaideia.com
+realestateagentnorfolkvirginia.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-12-29-v10496/1248
+
+ratingsentry.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-02-v10497/1255
+
+jennifergalvin.com
+jesusanaya.com
+kineticwing.com
+plannedtomatoes.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-08-v10501/1266
+
+arkadyevna.com
+boxtechcompany.com
+choosetotruck.com
+electricnico.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-10-v10503/1274
+
+lazittarl.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-11-v10505/1278
+
+mariateresacalderon.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/SmartApeSG/ (# 2024-01-15)
+
+phinetik.com
+scorelineupdate.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/SmartApeSG/ (# 2024-01-23)
+
+188.127.224.127:443
+188.127.224.145:443
+188.127.224.160:443
+188.127.224.199:443
+188.127.225.84:443
+5.181.156.45:443
+appboltonik.com
+suezey.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-24-v10513/1319
+
+climosfevelt.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-01-31-v10520/1343
+
+gigeconomycase.com
+pngairservices.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-01-v10521/1348
+
+cdn3-jquery.info
+telotrace.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-05-v10524/1357
+
+mysticselect.com
+oemmasters.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-12-v10530/1373
+
+casinovipclubs.com
+grantallardserver.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-26-v10540/1411
+
+aljannatquranteach.com
+bbsupplyandsalon.com
+betsmovepiyango47.com
+bigcuda.com
+eduvationgroup.com
+eoskinec.com
+ezwhatsappp.com
+growcalm.com
+grupodistribuidora.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-29-v10543/1423
+
+africanbeatmaker.com
+aiifolrida.com
+amarod.com
+auburnartwalk.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-02-22-v10538/1399
+
+machineryideas.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-03-04-v10544/1431
+
+briefscala.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-03-18-v10554/1469
+
+7commbeta.com
+ausgov.pro
+edulokam.com
+ezshipsy.com
+worldofmantas.com
+
+# Reference: https://twitter.com/ValidinLLC/status/1773355013948993727
+
+chumnouyka.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-03-25-v10559/1507
+
+jsluna.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-01-v10564/1522
+
+arquivisticalocal.com
+discovus.com
+mtlaikins.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-02-v10565/1524
+
+ahryssa.com
+elmworldacademy.com
+foradopicadeiro.com
+techyureka.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-08-v10570/1548
+
+fairfurryfriends.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/SmartApeSG/ (# 2024-04-11)
+
+185.216.70.123:443
+5.181.156.5:443
+ads-quantum.com
+advanceddataenterprise.com
+ahryssa.com
+aljannatquranteach.com
+arquivisticalocal.com
+bbsupplyandsalon.com
+bestopgoespink.com
+bigcuda.com
+briefscala.com
+digestlivepro.com
+discovus.com
+edulokam.com
+emonteiroadm.com
+ezshipsy.com
+fairfurryfriends.com
+gitkonus.com
+infineitsolutions.com
+jsluna.com
+machineryideas.com
+mtlaikins.com
+worldofmantas.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-15-v10575/1568
+
+bid2cart.com
+carlaweishale.com
+hlktradecenter.com
+jhansgansowen.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-16-v10576/1571
+
+barhell.com
+betvanced.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-04-22-v10580/1587
+
+gnoticiasimparciais.com
+
+# Generic
+
+/cache/ewmrgqnaww.php
+/ewmrgqnaww.php
